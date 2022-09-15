@@ -1,0 +1,28 @@
+
+[
+
+    {
+        "name": "Laptop",
+        "image": "images/1.jpg",
+        "price": 65000,
+        "rating": 3
+    },
+    {
+        "name": "ASUS CPU",
+        "image": "images/2.jpg",
+        "price": 13000,
+        "rating": 4
+    },
+    {
+        "name": "Microphone",
+        "image": "images/3.jpg",
+        "price": 4000,
+        "rating": 5
+    },
+    {
+        "name": "Speakers",
+        "image": "images/4.jpg",
+        "price": 7000,
+        "rating": 4
+    }
+]
